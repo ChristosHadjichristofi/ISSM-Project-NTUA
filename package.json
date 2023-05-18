@@ -1,0 +1,16 @@
+{
+  "name": "issm-project-ntua",
+  "version": "1.0.0",
+  "description": "Project for ISSM Course (PhD) NTUA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christos Hadjichristofi, Tzannetos Ioannis",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^6.3.0",
+    "solc": "^0.8.20"
+  }
+}
