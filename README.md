@@ -1,2 +1,15 @@
 # ISSM-Project-NTUA
 Information Systems Strategy and Management PhD Project
+
+## ENV File Template
+```
+# BLOCKCHAIN ENVIRONMENT VARIABLES
+RPC_HOST = "<RPC_HOST>"
+RPC_IP = "<RPC_IP>"
+RPC_PORT = <RPC_PORT>
+NETWORK_ID = <NETWORK_ID>
+GAS = <GAS>
+# WALLET No 1 (OWNER)
+WALLET_PR_KEY = "<WALLET_PR_KEY>"
+PUBLIC_ADDRESS = "<WALLET_PUB_ADDR>"
+```
